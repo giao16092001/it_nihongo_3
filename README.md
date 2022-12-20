@@ -17,3 +17,6 @@ Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a
 ## Help
 
 If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
+git config --global user.email "giaopham16092001@gmail.com"
+git config --global user.name "Pham Giao"
+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
